@@ -1,3 +1,4 @@
+#create a RDS with username sysadmin password Password for aws cloud
 provider "aws" {
   region = "us-east-1" # Change to the appropriate region for your needs
 }
